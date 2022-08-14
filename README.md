@@ -1,0 +1,86 @@
+# tarefa1growdev
+Meu primeiro projeto feito em HTML
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./images/alterado_favicon.ico" type="image/x-icon ">
+    <title>Relembrando-Programa Starter</title>
+</head>
+<body>
+    <header>
+    <nav style="text-align: center;"> 
+        <button style="background-color: #f4cba2  ;"> <a href="home.html" style="margin: 30px;">Home</a> </button>
+    <button style="background-color: #f4cba2;"> <a href="fullstack.html" style="margin: 30px;">Fullstack </a> </button>
+       <button style="background-color:#f4cba2 ;"> <a href="https://www.growdev.com.br/starter-uxui" style="margin: 30px;" target="_blank">UXUI</a></button>
+        <button style="background-color: #f4cba2 ;"> <a href="https://www.growdev.com.br/starter-data-science" style="margin: 30px;" target="_blank">Data Science</a> </button>
+        <button style="background-color: #f4cba2;"> <a href="https://www.growdev.com.br/advanced" style="margin: 20px;" target="_blank">Advanced</a> </button> 
+    </nav>
+    <br>
+        </header>
+        <main>
+        <article>
+        <div>
+            <img style="border: 8px solid #a4c3ca;" src="./images/starter.png" alt=""> </style>
+             <h1>Formação completa em Desenvolvimento Web Full Stack</h1>
+              <h2>O que é o Programa Starter?</h2>
+                <p>O Programa Starter é um curso? Não! Te decepcionei? Calma que vou te explicar e te mostrar que é
+                    muito mais do que isso!</p> 
+                    <p>O Programa Starter, além de uma formação completa em Desenvolvimento Web Full
+                        Stack, com metodologia de ensino e tecnologias direcionadas para o que as empresas demandam, tem o principal objetivo de
+                        preparar e apoiar a sua inserção no mercado de trabalho.</p>
+                        <img style="border: 8px solid #a4c3ca;" src="./images/starter1.png" alt=""> </style>
+    
+                    </div>
+      </article>    
+        <article>
+          
+             <h2>O que eu vou aprender no programa?</h2>
+              <p>A estrutura, metodologia e tecnologias utilizadas no Programa Starter foram pensadas para preparar
+                você para ingressar no mercado de trabalho como uma pessoa desenvolvedora web Full Stack, uma das
+                principais demandas do mercado. <strong> <u> Aqui você aprenderá tecnologias utilizadas por empresas como Uber,
+                Facebook e Netflix. </u></strong></p>
+               <p>Nossa metodologia é baseada no <i>modelo iterativo e incremental</i>. Mas o que é isso? É um modelo muito
+                utilizado para desenvolver software, onde, basicamente, acontecem ciclos (iterações) que passam por
+                todas as etapas da engenharia de software e ao final é gerado um incremento de produto, ou seja, o
+                software vai evoluindo de forma incremental. Da mesma forma, vamos incrementando o seu conhecimento,
+                através de ciclos, onde, agregamos um novo conhecimento e consolidamos os anteriores.
+                </p>
+        </article>
+       <article> 
+             <img style="border: 8px solid #a4c3ca ;" src="./images/starter2.png" alt=""> </style>
+            <h2>Principais tecnologia</h2>
+            <ul>
+                <li>HTML, CSS e Javascript</li>
+                <li>ReactJS</li>
+                <li>Git e Github</li>
+                <li>... e muitas outras! </li>
+            </ul>  
+         </article>
+         <hr>
+         <section>
+            <h2>Bacana né? E sabe por que o Programa Starter possui um ALTO GRAU DE EMPREGABILIDADE?</h2>
+                <h2>SETOR EXCLUSIVO FOCADO NA EMPREGABILIDADE</h2>
+                <p>A nossa área de empregabilidade trabalha exclusivamente para os growdevers com o propósito
+                     de acelerar a entrada dos nossos profissionais em formação no mercado de trabalho.</p>
+
+         </section>
+               <section>
+                <h3>conexão com empresas</h3>
+                <p>Desde o processo seletivo buscamos conhecer a sua história, entender seus objetivos,
+                     interesses e as suas soft skills. Isso nos ajudará a orientar você ao longo da formação, assim estaremos periodicamente atualizando suas informações e te acompanhando nesse processo.</p>
+              <p>Periodicamente, convidamos profissionais que são referências na área de tecnologia para darem palestras exclusivas aos growdevers, contando sua trajetória e compartilhando experiências reais 
+                de quem já atua na área.</p>
+              <img style="border: 8px solid #a4c3ca ;" src="./images/starter3.png" alt=""> </style>
+                    </section>
+                    <br>
+<div>
+                    <footer style="text-align: center;">2022 Growdev. All rights reserved <a href="http://www.growdev.com.br">Growdev</a></footer>
+     
+                </div>
+                </main>
+    
+            </body>
+</html>
